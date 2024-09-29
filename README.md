@@ -21,8 +21,8 @@ I had the idea of doing that code after a class in my technician IT course where
 # <h1 id ="intro">Introduction</h1>
 
 That's a brief explanation and deducing of how to do those calculus, so if you want to get into all the mathematic nuances of everything I recommend reading the websites:
-* CueMath - <a href='https://www.cuemath.com/numbers/binary-to-decimal/' target='_blank'>Binary To Decimal</a>
-* CueMath - <a href='https://www.cuemath.com/numbers/decimal-to-binary' target='_blank'/>Decimal to Binary</a>
+* CueMath - <a href='https://www.cuemath.com/numbers/binary-to-decimal/' target="_blank">Binary To Decimal</a>
+* CueMath - <a href='https://www.cuemath.com/numbers/decimal-to-binary' target="_blank"/>Decimal to Binary</a>
 
 Anyways, lets get into all that nerdy stuff!
 
