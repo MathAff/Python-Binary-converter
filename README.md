@@ -18,7 +18,7 @@ I had the idea of doing that code after a class in my technician IT course where
 * [My Code (Decimal to Binary](#myCode2)
 * [Thanks for reading](#thx)
 
-# <h1 id ="CountingSystems">Introduction</h1>
+# <h1 id ="intro">Introduction</h1>
 
 That's a brief explanation and deducing of how to do those calculus, so if you want to get into all the mathematic nuances of everything I recommend reading the websites:
 * CueMath - [Binary To Decimal](https://www.cuemath.com/numbers/binary-to-decimal/);
