@@ -13,9 +13,9 @@ I had the idea of doing that code after a class in my technician IT course where
 * [Introduction](#intro)
 * [Counting Systems](#CountingSystems)  
 * [Binary to Decimal Logic](#BToD)
-* [Decimal to Binary](#DToB)
-* [My Code (Binary to Decimal](#myCode1)
-* [My Code (Decimal to Binary](#myCode2)
+* [Decimal to Binary Logic](#DToB)
+* [My Code (Binary to Decimal)](#myCode1)
+* [My Code (Decimal to Binary)](#myCode2)
 * [Thanks for reading](#thx)
 
 # <h1 id ="intro">Introduction</h1>
