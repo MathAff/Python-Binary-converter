@@ -84,7 +84,7 @@ That's all you need to know to understand what I've done on my code, so lets div
 
 ---
 
-# <h1 id ="myCode1">My Code (Decimal to Binary):</h1> 
+# <h1 id ="myCode1">My Code (Binary to Decimal):</h1> 
 
 Skipping all lines that are system functionalities, we can jump into the method "binaryToDecimal". This method starts getting an ```Array``` of ```Strings``` typed by the user, so if you type ```1010```, the code will interpret it as if it was ```['1', '0', '1', '0']``` and finally it puts it inside the variable ```binary```.
 
@@ -104,7 +104,7 @@ And thats it, you got all logic for converting decimal to binary!!! Now, here it
 
 ---
 
-# <h1 id ="myCode2">My Code (Binary to Decimal):</h1>
+# <h1 id ="myCode2">My Code (Decimal to Binary):</h1>
 In that section, I just made a ```decimal``` variable that stores the decimal number. After that I put a backup variable ```n1``` for the value of the decimal, and a ```n2``` that makes the same thing. I started a ```remainder_str``` to put all remainders together, and finally a ```remainder``` that will store the remainder for each division (```while loop```).
 
 ![image](https://github.com/user-attachments/assets/defd4f65-d903-4fa1-beb0-2e26b9fa961a)
