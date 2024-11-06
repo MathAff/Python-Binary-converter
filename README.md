@@ -56,12 +56,19 @@ What if we want to translate ```(1010)2``` to decimal? We can do the same thing 
 and you do:
 
 0 times 2 to the power of 0
+
 ```(0 . 2 ^ 0)``` +
+
 1 times 2 to the power of 1
+
 ```(1 . 2 ^ 1)``` +
+
 0 times 2 to the power of 2
+
 ```(0 . 2 ^ 2)```
+
 1 times 2 to the power of 3
+
 ```+ (1 . 2 ^ 3)```
 
 If you sum all that stuff, you end up with:
