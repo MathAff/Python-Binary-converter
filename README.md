@@ -24,6 +24,8 @@ That's a brief explanation and deducing of how to do those calculus, so if you w
 * CueMath - <a href='https://www.cuemath.com/numbers/binary-to-decimal/' target="_blank">Binary To Decimal</a>
 * CueMath - <a href='https://www.cuemath.com/numbers/decimal-to-binary' target="_blank"/>Decimal to Binary</a>
 
+Remember that you can test this code just by runing the executable file in the release, just download it and be happy.
+
 Anyways, lets get into all that nerdy stuff!
 
 ---
