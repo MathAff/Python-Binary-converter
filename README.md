@@ -50,9 +50,19 @@ But now, to represent ```2``` you have to put another ```1``` on the left and st
 
 Having that said, we can infer that every time you add a digit to a Binary number you are adding a exponent of base ```2```, so in the first position you have a ```1```, you can multiply that ```1``` to ```2 ^ 0```, id est ```1 . 2 ^ 0```. Every number elevated to the power ```0``` equals to ```1```, so the number ```(1)10``` is represented by the number ```(1)2```.
 
-What if we want to translate ```(1010)2``` to decimal? We can do the same thing as before, but now we have to add every number resulted by the calculation of the 2 exponents. So you have:
+What if we want to translate ```(1010)2``` to decimal? We can do the same thing as before, but now we have to invert the order of the numbers and add every number resulted by the calculation of the 2 exponents. id est:
 
-```(0 . 2 ^ 0) + (1 . 2 ^ 1) + (0 . 2 ^ 2) + (1 . 2 ^ 3)```
+```1010``` is now ```0101```
+and you do:
+
+0 times 2 to the power of 0
+```(0 . 2 ^ 0)``` +
+1 times 2 to the power of 1
+```(1 . 2 ^ 1)``` +
+0 times 2 to the power of 2
+```(0 . 2 ^ 2)```
+1 times 2 to the power of 3
+```+ (1 . 2 ^ 3)```
 
 If you sum all that stuff, you end up with:
 
